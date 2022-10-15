@@ -1,5 +1,5 @@
 # Draw your Conversations
-This repo contains the code for the project as seen here: [insert video link]
+This repo contains the code for the project as seen here: https://youtu.be/rwcyZxLGel8
 
 ## Setup
 
